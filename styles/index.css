@@ -1,0 +1,7 @@
+body {
+  font-family: monospace;
+}
+
+canvas {
+  border: solid black 4px;
+}
