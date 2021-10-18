@@ -7,4 +7,4 @@
 ## Como funciona?
 ### Base
 - Este framework é baseado na arquitetura da Unity Engine
-- [!] Explicar ``GameObjects`` e ``Components``
+- [todo] Explicar ``GameObjects`` e ``Components``
